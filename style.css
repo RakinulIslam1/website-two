@@ -10,7 +10,7 @@ body{
 }
 .button{
     padding: 10px 20px;
-    font-size: 15px;
+    font-size: 20px;
     background-color: rgb(247, 47, 47);
     border: 0ch;
     border-radius: 8px;
@@ -58,9 +58,6 @@ body{
     text-align: center;
     color: gray;
 }
-
-
-
 .part4{
     border: 0ch;
     border-radius: 10px;
@@ -72,4 +69,23 @@ body{
 .felx-container{
     padding-top: 5px;
     display: inline-flex;
+}
+
+.last-p{
+    display: flex;
+    padding-top: 150px;
+    padding-bottom: 50px;
+    width: 100%;
+    padding-left: 70px;
+}
+.last-p img{
+    width: 70%;
+    padding-left: 60px;
+    padding-top: 45px;
+}
+
+
+.part5{
+    font-size: 25px;
+    padding-right: 20px;
 }
