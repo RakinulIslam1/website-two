@@ -13,7 +13,7 @@ body{
     font-size: 15px;
     background-color: rgb(247, 47, 47);
     border: 0ch;
-    border-radius: 5px;
+    border-radius: 8px;
     color: white;
     font-weight: 700;
 }
@@ -28,5 +28,48 @@ body{
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    
+}
+.part2{
+    padding-top: 60px;
+    text-align: center;
+    font-size: 25px;
+}
+.taka{
+    padding-top: 16px;
+    display: flex;
+    justify-content: space-evenly;
+    margin-left: 90px;
+    margin-right: 90px;
+    color: gray;
+}
+.text-box{
+    border: 3px solid rgb(245, 243, 243);
+    padding: 20px 10px;
+}
+#test-box2{
+    border: 2px solid lightcoral;
+    background-color: rgb(238, 183, 183);
+}
+#line{
+    width: 50%;
+}
+.part3{
+    padding-top: 10px;
+    text-align: center;
+    color: gray;
+}
+
+
+
+.part4{
+    border: 0ch;
+    border-radius: 10px;
+    width: 30%;
+    margin: 30px;
+    padding: 20px;
+    background-image: linear-gradient(rgb(197, 224, 235), rgb(231, 231, 167));
+}
+.felx-container{
+    padding-top: 5px;
+    display: inline-flex;
 }
